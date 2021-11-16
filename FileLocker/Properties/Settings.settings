@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileLocker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IconIndexOfLocked" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">47</Value>
+    </Setting>
+    <Setting Name="LibraryOfIconLocked" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%WINDIR%\System32\shell32.dll</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
